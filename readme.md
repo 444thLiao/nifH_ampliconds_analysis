@@ -38,7 +38,7 @@ Furthermore, you could also refer to the ipynb named `nifH visualizations.ipyn`
 
 Reference and detailed methods see publications 
 
-[not yet]()
+[Tao J, Wang S, Liao T, et al. Evolutionary origin and ecological implication of a unique nif island in free-living Bradyrhizobium lineages[J]. The ISME Journal, 2021: 1-12.](https://doi.org/10.1038/s41396-021-01002-z)
 
 
 For More information
